@@ -45,4 +45,4 @@ function createInfoMssg({ element, stats }) {
   return infoMssg;
 }
 
-tree();
+tree(process.argv[2]);
