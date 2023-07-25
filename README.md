@@ -7,6 +7,8 @@
   <li>FileSystem and Path modules</li>
   <li>Recursive Functions</li>
   <li>NPM and how to install dependencies</li>
+  <li>How process object works in node</li>
+  <li>How to get input arguments with process</li>
 </ul>
 <hr />
 <h2>How to use it : </h2>
