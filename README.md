@@ -1,6 +1,6 @@
 <h1>Linux <code>tree</code> and <code>ls</code> commands together</h1>
 <ul>
-  Needed concepts : 
+  <strong>Needed concepts :</strong> 
   <li>Asynchronous JS (callbacks, promises, async / await)</li>
   <li>How Node works</li>
   <li>How Node modules work (CommonJS (.js || .cjs) vs EcmaScript Modules (.mjs))</li>
