@@ -12,4 +12,4 @@
 </ul>
 <hr />
 <h2>How to use it : </h2>
-<p>Once this repository is cloned run <code>node index.mjs [path of the file]</code>. The path if null or undefined will be the current directory</p>
+<p>Once this repository is cloned run <code>node index.mjs [path of the file]</code>. The path, if null or undefined, will be the current directory</p>
